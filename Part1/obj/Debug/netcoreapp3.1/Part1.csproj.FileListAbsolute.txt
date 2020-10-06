@@ -1,0 +1,12 @@
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\bin\Debug\netcoreapp3.1\Part1.exe
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\bin\Debug\netcoreapp3.1\Part1.deps.json
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\bin\Debug\netcoreapp3.1\Part1.runtimeconfig.json
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\bin\Debug\netcoreapp3.1\Part1.runtimeconfig.dev.json
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\bin\Debug\netcoreapp3.1\Part1.dll
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\bin\Debug\netcoreapp3.1\Part1.pdb
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\obj\Debug\netcoreapp3.1\Part1.AssemblyInfoInputs.cache
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\obj\Debug\netcoreapp3.1\Part1.AssemblyInfo.cs
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\obj\Debug\netcoreapp3.1\Part1.csproj.CoreCompileInputs.cache
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\obj\Debug\netcoreapp3.1\Part1.dll
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\obj\Debug\netcoreapp3.1\Part1.pdb
+C:\Users\fimle\Documents\Miracosta\CS155\Lecture 5\Lab\Part1\obj\Debug\netcoreapp3.1\Part1.genruntimeconfig.cache
